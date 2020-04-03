@@ -1,5 +1,7 @@
 {
-    "singleQuote": true,
-    "autoFix": true
-  }
-  
+  "tabWidth": 2,
+  "useTabs": false,
+  "editor.formatOnSave": true,
+  "singleQuote": true,
+  "autoFix": true
+}
